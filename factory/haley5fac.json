@@ -1,0 +1,9 @@
+{
+	"name": "haley5fac",
+	"location": "eastus2",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "8a5b8798-f094-4b23-acc0-eaa1a6e0f1ce",
+		"tenantId": "3ea0a714-2600-49bd-a9d7-81fe9d60b1ed"
+	}
+}
